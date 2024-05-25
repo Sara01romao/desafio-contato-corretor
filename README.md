@@ -16,7 +16,7 @@
 
 
 
-O Desafio contato do corretor - programar o layout da página, conectar com bancos de dados para mostrar as informações do corretor e permitir que o formulário receba mensagens.
+O Desafio contato do corretor - programar o layout da página, conectar com banco de dados para mostrar as informações do corretor e permitir que o formulário receba mensagens.
 
  Layout disponível na pasta de imagens. Use as tecnologias que preferir no desenvolvimento. 
 
